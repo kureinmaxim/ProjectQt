@@ -14,7 +14,7 @@ Section "Install"
   SetOutPath "$INSTDIR"
 
   # Копируем файлы приложения
-  File /r "C:\Project_Qt\UprQT_TL7\build-TL7-Desktop_Qt_5_12_4_MinGW_64_bit-Release\release\*.*"
+  File /r "C:\Project\ProjectQt\UprQT_TL7\build-TL7-Desktop_Qt_5_12_4_MinGW_64_bit-Release\release\*.*"
 
   # Создаем ярлыки
   CreateShortcut "$DESKTOP\TL7.lnk" "$INSTDIR\TL7.exe"

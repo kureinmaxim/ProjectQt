@@ -1,0 +1,3 @@
+C:\Program Files (x86)\NSIS
+C:\Qt\Qt5.12.4\5.12.4\msvc2017_64
+C:\Project_Qt\UprQT_TL7

@@ -3,7 +3,7 @@
 REM Укажите пути
 set QTDIR=C:\Qt\Qt5.12.4\5.12.4\msvc2017_64
 set NSISDIR=C:\Program Files (x86)\NSIS
-set PROJECT_DIR=C:\Project_Qt\UprQT_TL7
+set PROJECT_DIR=C:\Project\ProjectQt\UprQT_TL7
 set BUILD_DIR=%PROJECT_DIR%\build-TL7-Desktop_Qt_5_12_4_MinGW_64_bit-Release
 set RELEASE_DIR=%BUILD_DIR%\release
 
